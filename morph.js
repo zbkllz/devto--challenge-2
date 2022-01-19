@@ -45,5 +45,5 @@ window.addEventListener('load', mainF)
 //2- box adaptação tela cheia - bug [RESOLVIDO]
 //3 - redirecionamento página (links externos)
 //4 - colocar uma logo bonitinha
-//5-tornar campos obrigatórios form e alert
+//5-tornar campos obrigatórios form e alert [EM ANDAMENTO]
 //6 -transformar forgot pass em link ativo
